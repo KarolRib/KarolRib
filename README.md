@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack (em aprendizado)`**
 
-Me chamo Karolaine Ribeiro, tenho 32 anos e sou natural de Uberlândia-MG. Concluí um curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA - Centro Universitário, sou assinante da plataforma "[Alura]([https://www.youtube.com/@larissakich](https://www.alura.com.br/indica-dev/karolainerm))". Sou apaixonada por tecnologia e inovação.
+Me chamo Karolaine Ribeiro, tenho 32 anos e sou natural de Uberlândia-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA - Centro Universitário, e também sou assinante da plataforma "[Alura](https://www.alura.com.br/indica-dev/karolainerm)". Sou apaixonada por tecnologia e inovação e estou em busca de conhecimento e especialização para conseguir minha primeira vaga Júnior.
 
 ### 🤖 Linguagens e Tecnologias
 
