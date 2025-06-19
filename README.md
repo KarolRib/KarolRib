@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Karol Ribeiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack (em aprendizado)`**
 
 Me chamo Karolaine Ribeiro, tenho 32 anos e sou natural de Uberlândia-MG. Concluí um curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA - Centro Universitário. Sou apaixonada por tecnologia e inovação.
 
