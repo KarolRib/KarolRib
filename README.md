@@ -35,9 +35,7 @@ Me chamo Karolaine Ribeiro, sou natural de Uberlândia-MG. Atualmente, estou cur
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
 />
-
 <img 
     align="left" 
     alt="Python" 
