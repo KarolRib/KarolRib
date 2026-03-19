@@ -71,3 +71,12 @@ Me chamo Karolaine, sou de Uberlândia-MG. Atualmente, estou cursando Análise e
     
 <br/>
 <br/>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/KarolRib">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KarolRib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KarolRib&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
