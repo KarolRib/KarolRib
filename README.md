@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em aprendizado`**
 
-Me chamo Karolaine, sou de Uberlândia-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA - Centro Universitário, concluindo em Dezembro de 2026, e também sou assinante da plataforma "[Alura](https://www.alura.com.br/indica-dev/karolainerm)". Sou apaixonada por tecnologia e inovação e estou em busca de conhecimento e especialização. Atualmente faço Estágio na Bestway Seeds. Estou sempre pronta para aprender e me desenvolver.
+Me chamo Karolaine, sou de Uberlândia-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNA - Centro Universitário, concluindo em Dezembro de 2026, e também sou assinante da plataforma "[Alura](https://www.alura.com.br/indica-dev/karolainerm)". Sou apaixonada por tecnologia e inovação e estou em busca de conhecimento e especialização. Atualmente trabalho como Assistente de Desenvolvimento de Sistemas na Bestway Seeds. Estou sempre pronta para aprender e me desenvolver.
 
 ### 🤖 Linguagens e Tecnologias em Aprendizado:
 
